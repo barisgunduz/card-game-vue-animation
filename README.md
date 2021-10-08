@@ -1,5 +1,8 @@
 # pogaca-nerede-kart-oyunu
-
+- Animation and transition
+- Component communication
+- LifeCycle Hooks
+- Nested Components
 > A Vue.js project
 
 ## Build Setup
